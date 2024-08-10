@@ -1,0 +1,13 @@
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe.config
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.pdb
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.AssemblyReference.cache
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.SuggestedBindingRedirects.cache
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Properties.Resources.resources
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.GenerateResource.cache
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.CoreCompileInputs.cache
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.exe
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.pdb
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.login_form.resources
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.registration_frm.resources
+C:\DTEC 115\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.add_user_form.resources
